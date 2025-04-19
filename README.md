@@ -1,0 +1,2 @@
+we have the 5 year dataset, btc_analysis_improved file is where we create and test the model, the predict_with_saved_model is to predict what the price of btc could have been the next day.
+eg) to find the prediction of bitcoin price the next day, we need all the data till the previous day ie to predict 20th of april btc price, we need data till 19th of april so we need to update the original dataset everyday to predict the next day price.
